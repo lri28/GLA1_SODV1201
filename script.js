@@ -6,7 +6,7 @@ document.body.style.backgroundColor = "#050301";
 and add the following style (align center and color gray or #A9A9A9)*/
 
 const heading1 = document.createElement("h1");
-heading1.innerHTML = "Leona";
+heading1.innerHTML = "Leona Ilao";
 heading1.style.textAlign = "center";
 heading1.style.color = "gray";
 document.body.appendChild(heading1);
